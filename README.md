@@ -1,0 +1,2 @@
+# weatherclock_base_on_stm32_HAL
+基于STM32F103C8T6的HAL库实现的智能天气时钟
